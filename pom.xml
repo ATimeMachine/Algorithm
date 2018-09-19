@@ -47,4 +47,8 @@
 	</build>
 
 
+	<modules>
+		<module>r-b-tree</module>
+		<module>sort</module>
+	</modules>
 </project>
